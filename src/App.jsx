@@ -5,7 +5,7 @@ import Cart from "./pages/Cart/Cart"
 import PlaceOrder from "./pages/PlaceOrder/PlaceOrder"
 import Footer from "./components/Footer/Footer"
 import { useState } from "react"
-import LoginPopup from "./components/LoginPopup/lOGINpOPUP.JSX"
+import LoginPopup from "./components/LoginPopup/LoginPopup"
 import Verify from "./pages/verify/Verify"
 import MyOrders from "./pages/MyOrders/MyOrders"
 import Success from './pages/Success/Success'
