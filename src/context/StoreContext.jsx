@@ -5,7 +5,7 @@ import axios from "axios"
 
 const StoreContextProvider = (props) => {
   const [cartItems, setCartItems] = useState({});
-  const url="http://localhost:4000"
+  const url="https://revamp-maakakhana-backend-2.onrender.com"
   const [token, setToken]=useState("")
   const [food_list, setFoodList]=useState([])
   // console.log("tokeenn", token)
